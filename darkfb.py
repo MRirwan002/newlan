@@ -72,14 +72,14 @@ def siapa():
 		siapa()
 	else:
 		os.system('clear')
-		jalan("\033[1;97mSelamat Datang \033[31;1m" +nama + "\n\033[1;97mJangan BarBar Kali Kau,Salam SANSBAE \nSubscribe Channel SANSBAE dulu Sob!! \nBuruan search sono coeg!! \nOH iya sedikit penjelasan nih coeg \nWarna Hijau Pada Akun yang sedang dihack \nTandanya Akun Sedang Online,Jadi \nBerkemungkinan Checkpoint Ya boss \nSebaliknya Jika Akun Yang Dihack \nBerwarna Kuning Maka Akun Sedang Offline \nAkun Bisa Langsung Dipakai Ya")
+		jalan("\033[1;97mSelamat Datang \033[31;1m" +nama + "\n\033[1;97mJangan BarBar Kali Kau,Salam RISOL \nSubscribe Channel RISOL dulu Sob!! \nBuruan search sono coeg!! \nOH iya sedikit penjelasan nih coeg \nWarna Hijau Pada Akun yang sedang dihack \nTandanya Akun Sedang Online,Jadi \nBerkemungkinan Checkpoint Ya boss \nSebaliknya Jika Akun Yang Dihack \nBerwarna Kuning Maka Akun Sedang Offline \nAkun Bisa Langsung Dipakai Ya")
 		time.sleep(2)
 		loginSC()
 		
 #jangan ganti ini jika kalian tidak ingin mengalami error		
 def loginSC():
 	os.system('clear')
-	jalan ("\033[33;1m*Baca Sebelum Menggunakan Script Ini!!\nSebelum Kalian Hack Akun Fb Orang Lain \nKalian Harus Memasukan Username & Passwordnya \nJika Kalian Tidak Mempunyai Lisensinya \nKalian langsung lihat Username Dan Passwordnya \nDi Website, Otomatis Akan Di Alihkan ke Websitenya\nJangan Subscribe Selain Dari Channel SANSBAE \nWaspada Reuploader DI mana mana coeg\nBerkaryalah, tanpa menggunakan karya orang lain bro !!! \nJangan Menjadi Youtubers Sampah \nYang Hanya Menjiplak Karya Orang Lain \nSubscribe Hanya Di Channel SANSBAE \nBukan Yang Lain Oke \nThanks For ALLAH SWT.............")
+	jalan ("\033[33;1m*Baca Sebelum Menggunakan Script Ini!!\nSebelum Kalian Hack Akun Fb Orang Lain \nKalian Harus Memasukan Username & Passwordnya \nJika Kalian Tidak Mempunyai Lisensinya \nKalian langsung lihat Username Dan Passwordnya \nDi Website, Otomatis Akan Di Alihkan ke Websitenya\nJangan Subscribe Selain Dari Channel RISOL \nWaspada Reuploader DI mana mana coeg\nBerkaryalah, tanpa menggunakan karya orang lain bro !!! \nJangan Menjadi Youtubers Sampah \nYang Hanya Menjiplak Karya Orang Lain \nSubscribe Hanya Di Channel RISOL \nBukan Yang Lain Oke \nThanks For ALLAH SWT.............")
 	os.system('xdg-open https://cyberinfo25.blogspot.com/2020/05/script-dark-fb-terbaru-anti-checkpoint_31.html')
         username = raw_input("\033[1;96m[*] \033[1;97mUsername \033[1;91m: \033[1;92m")
 	password = raw_input("\033[1;96m[*] \033[1;97mPassword \033[1;91m: \033[1;92m")
